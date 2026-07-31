@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deep2807" alt="deep2807" /></a> </p>
 
-- 🔭 I’m currently Studying in Indrashil University **Artificial narrow intelligence**
-
 - 🌱 I’m currently learning **AIML with Python**
 
 - 💬 Ask me about **HTML,CSS,JS**
